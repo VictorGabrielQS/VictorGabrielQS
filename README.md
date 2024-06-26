@@ -1,6 +1,7 @@
 ## Olá , eu sou o Victor Gabriel , Desenvolvedor e apaixonado por programação e tecnologia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGabrielQS&show_icons=true&theme=transparent)
+![Victor Git hub](https://github-readme-stats.vercel.app/api?username=VictorGabrielQS&show_icons=true&theme=transparent&border_color="#FFFFFF"&icon_color="#FFFFFF"&title_color=="#FFFFFF")
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
