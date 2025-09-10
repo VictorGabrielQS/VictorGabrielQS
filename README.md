@@ -1,4 +1,4 @@
-## Olá , eu sou o Victor Gabriel , Desenvolvedor e apaixonado por programação e tecnologia!
+## Olá , eu sou o Victor Gabriel , Desenvolvedor e Fissurado por Programação e Tecnologia!
 
 
 
