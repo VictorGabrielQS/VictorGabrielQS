@@ -23,22 +23,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorGabrielQS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabrielQS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
----
-
-## 🔥 Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorGabrielQS&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Snake Animation
 
 <p align="center">
@@ -57,8 +41,6 @@
 </p>
 
 ---
-
-## ⚡
 
 <p align="center">
   ✨ <i>Transformando ideias em código.</i>
