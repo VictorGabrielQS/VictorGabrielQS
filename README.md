@@ -1,23 +1,65 @@
-## Olá , eu sou o Victor Gabriel , Desenvolvedor e Fissurado por Programação e Tecnologia!
+# 👨‍💻 Victor Gabriel
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Evoluindo+🚀" />
+</p>
 
+---
 
+## 🚀 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/victor_gabrielqss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:victor.git24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-gabriel-q-s-s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+💻 Desenvolvedor focado em soluções modernas
+📚 Sempre aprendendo novas tecnologias
+⚡ Apaixonado por código limpo e inovação
+🎯 Evolução constante
+
+---
+
+## 🧠 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java&theme=dark" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorGabrielQS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabrielQS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</p>
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorGabrielQS&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictorGabrielQS/VictorGabrielQS/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://instagram.com/victor_gabrielqss"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram"></a>
+  <a href="https://discord.gg/wagxzStdcR"><img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord"></a>
+  <a href="mailto:victor.git24@gmail.com"><img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/victor-gabriel-q-s-s"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+## ⚡
+
+<p align="center">
+  ✨ <i>Transformando ideias em código.</i>
+</p>
