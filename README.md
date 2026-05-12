@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Desenvolvedor focado em soluções modernas
-📚 Sempre aprendendo novas tecnologias
-⚡ Apaixonado por código limpo e inovação
-🎯 Evolução constante
-
----
 
 ## 🧠 Tecnologias
 
