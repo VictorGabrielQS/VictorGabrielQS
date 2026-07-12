@@ -30,15 +30,15 @@
 
 ---
 
-## 🎯 About Me
+🎯 About Me
 
-Desenvolvedor full stack com foco em **backend robusto** e **arquitetura escalável**. Especializado em criar APIs eficientes, gerenciar bancos de dados e orquestrar containers com Docker.
+Full Stack Developer with a strong focus on robust backend development and scalable architecture. Passionate about building efficient APIs, designing reliable databases, and orchestrating containerized applications with Docker.
 
-- 🔧 Construindo aplicações com **Java** e **Spring Boot**
-- 🗄️ Projetando bancos com **PostgreSQL**  
-- 📦 Containerizando com **Docker** e **Docker Compose**
-- ⚡ Otimizando performance e escalabilidade
-- 🤖 Usando **Cursor** e **Codex** entre outras IAs para desenvolvimento ágil
+🔧 Building applications with Java and Spring Boot
+🗄️ Designing and managing PostgreSQL databases
+📦 Containerizing applications with Docker and Docker Compose
+⚡ Optimizing performance, scalability, and maintainability
+🤖 Leveraging Cursor, Codex, and other AI tools to accelerate development
 
 ---
 
