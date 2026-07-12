@@ -30,18 +30,21 @@
 
 ---
 
-🎯 About Me
+## 🎯 About Me
 
-Full Stack Developer with a strong focus on robust backend development and scalable architecture. Passionate about building efficient APIs, designing reliable databases, and orchestrating containerized applications with Docker.
+Full Stack Developer with a strong focus on **robust backend development** and **scalable architecture**. Passionate about building efficient APIs, designing reliable databases, and orchestrating containerized applications with Docker.
 
-🔧 Building applications with Java and Spring Boot
-🗄️ Designing and managing PostgreSQL databases
-📦 Containerizing applications with Docker and Docker Compose
-⚡ Optimizing performance, scalability, and maintainability
-🤖 Leveraging Cursor, Codex, and other AI tools to accelerate development
+- 🔧 Building applications with **Java** and **Spring Boot**
+  
+- 🗄️ Designing databases with **PostgreSQL**
+  
+- 📦 Containerizing applications using **Docker** and **Docker Compose**
+  
+- ⚡ Optimizing performance and scalability
+  
+- 🤖 Leveraging **Cursor**, **Codex**, and other AI tools to accelerate development
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -54,15 +57,12 @@ Full Stack Developer with a strong focus on robust backend development and scala
   <img src="https://streak-stats.demolab.com?user=victorgabrielqs&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-    <a href="https://victorgabrielqs.cloud" target="_blank">
+  <a href="https://victorgabrielqs.cloud" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=globe&logoColor=white" height="40" />
   </a>
   <a href="https://linkedin.com/in/victor-gabriel-q-s-s" target="_blank">
@@ -77,13 +77,13 @@ Full Stack Developer with a strong focus on robust backend development and scala
   <a href="https://instagram.com/victor_gabrielqss" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
-    <a href="https://github.com/VictorGabrielQS/VictorGabrielQS/raw/main/Curriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Curriculo-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" height="40" />
+  <a href="https://github.com/VictorGabrielQS/VictorGabrielQS/raw/main/Curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" height="40" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Transformando ideias em código escalável.</i>
+  <i>Turning ideas into scalable code.</i>
 </p>
